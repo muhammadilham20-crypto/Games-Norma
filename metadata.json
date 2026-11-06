@@ -1,0 +1,6 @@
+{
+  "name": "Langkah Beretika: Menyeberang dengan Norma",
+  "description": "Game Design Document (GDD) interaktif & simulator arcade edukatif berbasis 4 Norma Masyarakat Indonesia (Kesopanan, Kesusilaan, Hukum, dan Agama).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
